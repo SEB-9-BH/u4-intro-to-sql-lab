@@ -5,13 +5,9 @@
 
 ## Setup
 
-Open your Terminal application and navigate to your `~/code/ga/labs` directory:
+Fork this repository.
 
-```bash
-cd ~/code/ga/labs
-```
-
-Clone the [Intro to SQL Lab Starter Code](https://git.generalassemb.ly/modular-curriculum-all-courses/intro-to-sql-lab-starter-code) repository, and enter the new directory:
+Clone your newly created repo into your `~/code/ga/labs` directory with the `git clone` command:
 
 ```bash
 git clone https://git.generalassemb.ly/modular-curriculum-all-courses/intro-to-sql-lab-starter-code.git
