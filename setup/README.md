@@ -10,8 +10,8 @@ Fork this repository.
 Clone your newly created repo into your `~/code/ga/labs` directory with the `git clone` command:
 
 ```bash
-git clone https://git.generalassemb.ly/modular-curriculum-all-courses/intro-to-sql-lab-starter-code.git
-cd intro-to-sql-lab-starter-code
+git clone https://github.com/SEB-9-BH/u4-intro-to-sql-lab
+cd intro-to-sql-lab
 ```
 
 
