@@ -1,4 +1,3 @@
--- Carmen Sandiego SQL Mystery Solution
 -- "\connect world" will allow us to connect to the database
 -- "\x" this will format the information being printed in the console to make it easier.. try it without if you want!
 -- !!We're counting on you, gumshoe. Find out where she's headed, send us the info, and we'll be sure to meet her at the gates with bells on!!
